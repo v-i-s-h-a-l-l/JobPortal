@@ -1,12 +1,44 @@
-# React + Vite
+# 💼 Job Portal (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Job Portal web application** for software engineers and recruiters.  
+Engineers can **browse jobs, view details, and apply**, while recruiters can **add, edit, and delete job postings** — all in a clean and responsive UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 👨‍💻 For Job Seekers
+- Browse available job listings.
+- View detailed job descriptions.
+- Apply to jobs via a dedicated **Apply Jobs** page.
 
-## Expanding the ESLint configuration
+### 🏢 For Recruiters
+- Add new job postings.
+- Modify existing jobs.
+- Delete jobs when filled.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🎨 UI/UX
+- Built with **Material UI** for a sleek, modern design.
+- Integrated **icons, spinners, and loaders** for enhanced user experience.
+- **Responsive design** for desktop and mobile.
+
+### 🗂️ Project Highlights
+- **Perfect folder structure** following best practices.
+- **Reusable components** and optimized React hooks.
+- Enhanced **UI/UX** for smooth navigation.
+## 🛠️ Tech Stack
+
+- **Frontend Framework**: [React](https://react.dev/) + [Vite](https://vitejs.dev/)  
+- **UI Library**: [Material UI](https://mui.com/), [React Icons](https://react-icons.github.io/react-icons/)  
+- **Routing**: [React Router DOM](https://reactrouter.com/)  
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) + MUI  
+- **State Management**: React Hooks  
+- **Backend (Dev)**: [JSON Server](https://github.com/typicode/json-server) (mock REST API)  
+
+---
+
+## 🌐 Live Demo
+👉 [**Job Portal on Vercel**](https://job-portal-fawn-gamma.vercel.app/)
+##  Authors
+
+- [Shriyaa S K](https://github.com/SHRIYAASK)
+ - [Vishal hariharan K K](https://github.com/v-i-s-h-a-l-l)
+
